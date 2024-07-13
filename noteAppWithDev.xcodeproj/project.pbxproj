@@ -16,6 +16,7 @@
 		8FBFFA562C4310C000F8394E /* AddNoteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBFFA552C4310C000F8394E /* AddNoteViewController.swift */; };
 		8FBFFA592C4315FD00F8394E /* Notes.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8FBFFA572C4315FD00F8394E /* Notes.xcdatamodeld */; };
 		8FBFFA5B2C4316BA00F8394E /* model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBFFA5A2C4316BA00F8394E /* model.swift */; };
+		8FBFFA5D2C432FE400F8394E /* NoteDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBFFA5C2C432FE400F8394E /* NoteDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		8FBFFA552C4310C000F8394E /* AddNoteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNoteViewController.swift; sourceTree = "<group>"; };
 		8FBFFA582C4315FD00F8394E /* Notes.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Notes.xcdatamodel; sourceTree = "<group>"; };
 		8FBFFA5A2C4316BA00F8394E /* model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = model.swift; sourceTree = "<group>"; };
+		8FBFFA5C2C432FE400F8394E /* NoteDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				8FBFFA412C430DA900F8394E /* SceneDelegate.swift */,
 				8FBFFA552C4310C000F8394E /* AddNoteViewController.swift */,
 				8FBFFA432C430DA900F8394E /* NoteViewController.swift */,
+				8FBFFA5C2C432FE400F8394E /* NoteDetailViewController.swift */,
 				8FBFFA572C4315FD00F8394E /* Notes.xcdatamodeld */,
 				8FBFFA5A2C4316BA00F8394E /* model.swift */,
 				8FBFFA532C430FFA00F8394E /* Extensions.swift */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8FBFFA442C430DA900F8394E /* NoteViewController.swift in Sources */,
+				8FBFFA5D2C432FE400F8394E /* NoteDetailViewController.swift in Sources */,
 				8FBFFA592C4315FD00F8394E /* Notes.xcdatamodeld in Sources */,
 				8FBFFA402C430DA900F8394E /* AppDelegate.swift in Sources */,
 				8FBFFA422C430DA900F8394E /* SceneDelegate.swift in Sources */,
